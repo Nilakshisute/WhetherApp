@@ -80,6 +80,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📬 Contact
+![Screenshot (449)](https://github.com/user-attachments/assets/c7197378-a83c-4771-8399-c794ab505f6a)
+
+![Screenshot (450)](https://github.com/user-attachments/assets/453e4081-29dd-4dd4-b7d0-239a655be9b2)
+
 
 - Your Name - Nilakshi Sute
 - Email: your-nilakshisute2020@gmail.com
